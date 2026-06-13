@@ -180,7 +180,7 @@ For questions, issues, or feature requests, please contact:
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 1.0 | 2026-04-09 | Initial dashboard release |
+| 1.3 | 2026-04-09 | Initial dashboard release |
 
 ---
 
