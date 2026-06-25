@@ -163,7 +163,7 @@ This dashboard aggregates data from Global Super Store's operational systems, in
 ## Contact & Support
 
 For questions, issues, or feature requests, please contact:
-- **Analytics Team**: [Add email]
+- **Analytics Team**: aryan.rajora14@outlook.com
 - **Data Support**: [Add contact information]
 - **Dashboard Admin**: [Add contact information]
 
