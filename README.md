@@ -164,8 +164,8 @@ This dashboard aggregates data from Global Super Store's operational systems, in
 
 For questions, issues, or feature requests, please contact:
 - **Analytics Team**: aryan.rajora14@outlook.com
-- **Data Support**: [Add contact information]
-- **Dashboard Admin**: [Add contact information]
+- **Data Support**: 8860487100
+- **Dashboard Admin**: [ contact information]
 
 ## Glossary
 
