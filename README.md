@@ -187,4 +187,4 @@ For questions, issues, or feature requests, please contact:
 **Disclaimer**: This dashboard contains proprietary business information. Unauthorized distribution or use is prohibited.
 
 Happy Learning 🫂
-New Dashboard Has Arrived!
+New Nvidia Dashboard Has Arrived!
