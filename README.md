@@ -4,7 +4,7 @@
 
 ## Overview
 
-First
+Not first
 
 The **Global Super Store Sales Report Dashboard** is a comprehensive business intelligence tool designed to provide real-time insights into sales performance, profitability, and operational metrics across multiple dimensions. This dashboard enables executives, managers, and analysts to make data-driven decisions by visualizing key performance indicators (KPIs) and detailed analytics across geographic regions, product categories, and customer segments.
 
